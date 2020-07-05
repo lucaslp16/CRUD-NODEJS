@@ -1,7 +1,7 @@
 # CRUD-NODEJS
 
 <h1>💻 Ferramentas Utilizadas</h1>
-- Para o Desenvolviment o do CRUD foi utilizado o nodeJS. 
+- Para o Desenvolviment o do CRUD foi utilizado o nodeJS. <br/>
 Criando Middlewares para todas as rotas sendo adicionado contador de log e tempo de resposta.
 
 <h2>🚀 Tecnologias utilizadas</h2>
